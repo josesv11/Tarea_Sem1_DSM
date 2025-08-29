@@ -1,0 +1,28 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+local.properties
+
+# macOS
+.DS_Store
+
+# Captures y generados
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Logs
+*.log
+
+# Signing (si usas keystore, no lo subas nunca)
+*.jks
+*.keystore
+
+# Google Services (si tu proyecto usa Firebase, sube este archivo manualmente)
+google-services.json
